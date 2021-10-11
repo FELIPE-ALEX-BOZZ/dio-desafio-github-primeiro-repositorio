@@ -6,5 +6,5 @@ Reposítorio criado para o Desafio de projeto.
 
 - Professores:
 
-  - https://www.linkedin.com/in/falvojr/
-  - https://www.linkedin.com/in/operkles/
+  - Venilton Falvo Jr: https://www.linkedin.com/in/falvojr/
+  - Otávio Reis Perkles: https://www.linkedin.com/in/operkles/
